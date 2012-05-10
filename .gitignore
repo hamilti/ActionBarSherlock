@@ -25,11 +25,8 @@ pom.xml.*
 website/_site
 
 #Ant
-build.xml
 ant.properties
 local.properties
-proguard.cfg
-proguard-project.txt
 
 #Other
 .DS_Store
